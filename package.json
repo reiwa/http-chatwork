@@ -1,0 +1,23 @@
+{
+  "name": "@sakana/http-chatwork",
+  "version": "1.0.0",
+  "description": "A Cycle.js Driver for making HTTP requests",
+  "license": "MIT",
+  "author": "uufish",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:uufish/http-chatwork.git"
+  },
+  "scripts": {
+    "publish": "npm publish --access=publi"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "@cycle/core": "*",
+    "@cycle/http": "*",
+    "rx": "*"
+  },
+  "optionalDependencies": {}
+}
